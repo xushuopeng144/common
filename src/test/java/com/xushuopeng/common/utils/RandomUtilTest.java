@@ -6,10 +6,7 @@ import org.junit.Test;
 
 public class RandomUtilTest {
   RandomUtil r=new RandomUtil();
-	@Test
-	public void testRandom() {
-		fail("Not yet implemented");
-	}
+	
 
 	@Test
 	public void testSubRandom() throws IllegalAccessException {
@@ -26,9 +23,6 @@ public class RandomUtilTest {
 	}
 	
 
-	@Test
-	public void testRandomString() {
-		fail("Not yet implemented");
-	}
+	
 
 }
